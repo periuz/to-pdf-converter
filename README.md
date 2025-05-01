@@ -17,14 +17,14 @@ A simple web API built with FastAPI that converts .docx files to .pdf using docx
 
 ## Setup instructions
 
-- Clone repository
+- Clone repository:
 git clone https://github.com/your-username/docx-to-pdf-api.git
 cd docx-to-pdf-api
 
-- Install dependencies
+- Install dependences:
 pip install -r requirements.txt
 
-- Run the server
+- Run the server:
 uvicorn main:app --reload
 
 ## How to use
